@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/astral-sh/docstring-adder/commit/e13d4bc0c83b223c329b357a84157a6deb6207a9",
       "git:hexsha": "e13d4bc0c83b223c329b357a84157a6deb6207a9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
