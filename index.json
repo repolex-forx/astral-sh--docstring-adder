@@ -1,0 +1,11 @@
+{
+  "org": "astral-sh",
+  "repo": "docstring-adder",
+  "versions": [
+    {
+      "commit": "e13d4bc0c83b223c329b357a84157a6deb6207a9",
+      "tag": "",
+      "parsed_at": "2026-10-10T04:15:21.128620+00:00"
+    }
+  ]
+}
